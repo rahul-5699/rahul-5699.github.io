@@ -1,5 +1,10 @@
 img {
   width: 300px;
+  border: 2px solid black;
+  border-top-right-radius: 18px;
+  border-bottom-right-radius: 18px;
+  box-shadow: 1px 3px 15px 2px;
+  margin-left: 10px;
 }
 
 h1{
@@ -13,6 +18,10 @@ h2{
 }
 
 
+div{
+  margin-bottom: 50px;
+}
+
 a {
   background-color: green;w;
   border: 2px solid black;
@@ -22,8 +31,6 @@ a {
   padding:8px 16px;
   margin-left: 25px;
   text-transform: uppercase;
-  
-   
 }
 
 footer{
@@ -36,3 +43,7 @@ footer{
 p,ol,li{
   font-size: 18px;
 }
+
+
+
+ 
